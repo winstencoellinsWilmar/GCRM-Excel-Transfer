@@ -8,6 +8,15 @@ Dependencies needed:
 - Pandas
 - Numpy
 
+Install Python: [Python](https://www.python.org/downloads/)
+
+<br />
+
+After installing Python, you can install the dependencies above with the command below:
+```python
+pip install pandas numpy
+```
+
 ## How to generate excel file?
 
 After cloning this repository, you will need create two folders in the same directory where the `main.py` folder is:
