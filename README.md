@@ -19,7 +19,7 @@ pip install pandas numpy
 
 ## How to generate excel file?
 
-After cloning this repository, you will need create two folders in the same directory where the `main.py` folder is:
+After cloning this repository, you will need create two folders in the same directory where the `main.py` file is:
 1. `updated`
 2. `excel`
 
